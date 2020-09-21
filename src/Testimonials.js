@@ -27,6 +27,9 @@ function Testimonials() {
                     <div class="col py-2">
                     <TestItems cimage={kn} ctext="Some quick example text to build on the card title and make up the bulk of the card's content."  person="Kabir Naik"/>
 
+                    </div><div class="col py-2">
+                    <TestItems cimage={kn} ctext="Some quick example text to build on the card title and make up the bulk of the card's content."  person="Kabir Naik"/>
+
                     </div>
                 </div>    
             </div>
